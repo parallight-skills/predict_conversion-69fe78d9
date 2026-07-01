@@ -1,0 +1,2 @@
+# predict_conversion-69fe78d9
+解 Trial-to-Paid 转化预测的可组合 skill:特征工程(平方/立方/交互高维)+ logistic 流水线,竞技 top1 / 90% 准确率。三件零件可单独交易。
